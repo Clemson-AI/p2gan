@@ -1,5 +1,6 @@
-# p2gan
+# Notebook
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/Clemson-AI/p2gan/blob/master/p2gan.ipynb)  
+The style transfer images below are from the p2gan notebook. You will be able to set-up, train, and upload your own pictures in the notebook.
 # Style Transer
 This is the p2gan paper where they go into a lot of detail and also the Github repo
 - [https://arxiv.org/abs/2001.07466](https://arxiv.org/abs/2001.07466)
